@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdulab393
-- 👀 I’m interested in Backend Developer
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Software MNC
 - 📫 How to reach me mcrac393@gmail.com
